@@ -14,6 +14,9 @@ public class Main {
         mentoria.setDescricao("Explicação sobre piramides de teste");
         mentoria.setData(LocalDate.now());
 
+        Conteudo conteudo = new Curso();
+        Conteudo conteudo1 = new Mentoria();
+
         System.out.println(Java);
         System.out.println(mentoria);
     }

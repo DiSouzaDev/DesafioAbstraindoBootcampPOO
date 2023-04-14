@@ -3,7 +3,7 @@ A idéia deste desafio é abstrair um Bootcamp usando os princípios da POO (Pro
 
 ## Sobre o código
 
-O código possúi seis classes ao todo, sendo uma delas uma classe Main e outra uma classe abstrata.
+O código possui seis classes ao todo, sendo uma delas uma classe Main e outra uma classe abstrata.
 
 ## Classe Conteudo
 
